@@ -1,0 +1,31 @@
+<form>
+    <label for="fast name">first name</table>
+        <input type="text" name="fname" id="">
+    
+<label for="last name">last name</label>
+<input type="text"name="last name">
+<br>
+    
+    <label for="emailaddress">email address </label>
+    <input type="email" name="emailaddress">
+    <br>
+    <label for="contact">contact number</label>
+    <input type="number"name="contact number">
+  <br>
+<input type="submit"name>
+
+<input type="radio"name="gender" id="">
+<label for="gender">male</label>
+<input type="radio">name="gender"id">
+<label for="gender">female</label>
+<input type="radio"> name="gender">
+
+
+
+
+
+
+
+
+
+<label for=""></label>
