@@ -1,0 +1,15 @@
+.navbar ul li a{
+    background-color: aqua;
+    padding: 5px;
+  text-decoration: none;
+}
+.navbar ul li{
+    display: inline-block;
+} 
+table,th,td{
+    border-collapse: collapse;
+}
+body{
+    background-image: url(./sung-jinwoo-dragon-3840x2160-15351.jpg);
+    background-repeat: no-repeat;
+}
