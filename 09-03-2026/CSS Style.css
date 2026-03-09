@@ -1,0 +1,90 @@
+/* .container{
+    display: flex;
+    background-color: aqua;
+    height: 400px;
+    gap: 10px;
+    flex-wrap: wrap;
+
+}
+
+.box{
+    background-color: blue;
+    width: 250px;
+
+}
+  .box-1, .box-2, .box-3{
+    color: white;
+  } */
+   /* .navbar{
+    background-color: black;
+    }
+
+    ul{
+        display: flex;
+        padding: 10px;
+        gap: 20px;
+        list-style-type: none;
+        
+       
+    }
+
+ .navbar a{
+         text-decoration: none;
+         color: white;
+    }
+a:hover{
+    
+    color: blue;
+} */
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+    height:100vh;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: auto;
+}
+    .head{
+        height:10%;
+        background-color: blue;
+       
+    }
+.nav{
+      height: 10%;
+      background-color: aquamarine;
+}
+.sec{
+    display: flex;
+    height: 70%;
+   background-color: gray;
+   gap: 10px;
+    
+}
+.leftbar{
+    width:20%;
+    background-color: chocolate;
+}
+.maincon{
+    width:60%;
+    background-color: rgb(42, 165, 85);
+
+}
+.rightbar{
+    width:20%;
+    background-color:blueviolet;
+}
+.footer{
+    height: 10%;
+    background-color: chartreuse;
+}
+.head,.nav,.leftbar,.maincon,.rightbar,.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
