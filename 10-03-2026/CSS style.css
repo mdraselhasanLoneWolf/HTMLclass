@@ -1,0 +1,48 @@
+.list {
+    display: flex;
+    list-style-type: none;
+    margin-left: auto;
+    gap:10px;
+
+}
+li{
+    font-size: x-large;
+    
+  
+
+   
+}
+a{
+    text-decoration: none;
+}
+li :hover{
+    background-color: aqua;
+}
+.navbar{
+    display: flex;
+    background-color: rgb(255, 0, 51);
+  
+
+
+  
+}
+.logo{
+    display: flex;
+    color: black ;
+  
+    gap: 5px;
+    
+}
+.item{
+    display: flex;
+    height: 300px;
+    width: 300px;
+   font-size: smaller
+}
+
+p{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
