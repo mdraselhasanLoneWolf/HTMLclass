@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+    margin: 4px;
+    text-align: center;
+    font-family: Lobster Two;
+}
+
+.top{
+
+    display: flex;
+    text-align: center;
+    background-color: aqua;
+    justify-content: center;
+    border-width: 10px;
+    padding: 10px;
+    font-size: larger;
+
+}
+
+.h2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.B{
+    display: flex;
+    margin: auto;
+
+}
+.sec{
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.ol{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    font-size: larger;
+    background-color: deepskyblue;
+    padding: 20px 30px;
+   
+
+}
+a{
+    text-decoration: none;
+}
+.sect{
+    background-color: aquamarine;
+    display: flex;
+    height: 80vh;
+    width: 100vw;
+}
+.site{
+    display: flex;
+    align-items: center;
+    
+  background-color: chartreuse;
+  padding: 50px;
+  width: 40%;
+ 
+
+}
+.bar{
+    display: flex;
+    text-align: center;
+    background-color: crimson;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+footer{
+    background-color: coral;
+    text-align: center;
+    padding: 15px;
+
+}
+.nav ol li a:hover{
+    background-color: yellow
+}
+.facebookicon{ 
+    
+    font-size: 2rem;
+    color: blue;
+}
+
+.playstation{
+    font-size: 2rem;
+    color: rgb(2, 2, 91);
+    
+}
+.text{
+    margin: 5px;
+}
