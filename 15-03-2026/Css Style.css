@@ -65,11 +65,8 @@ a{
     width: 100%;
     margin: auto;
 }
-footer p{
-    background-color: black;
+.foot{
+    background-color: rgba(0, 0, 0, 0.542);
     color: white;
-    padding: 10px;
-}
-.icon{
-    background-color: blue;
+    padding: 5px;
 }
